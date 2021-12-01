@@ -136,3 +136,13 @@ background-color: green;
  padding-bottom: 20px;
  padding-top: 30px;
  }
+
+   .footer {
+ 
+ background-color: black; 
+ height: auto;
+ color: white;
+ padding-bottom: 5px;
+ padding-top: 5px;
+ 
+ }
